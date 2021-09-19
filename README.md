@@ -1,2 +1,2 @@
 # Cucumber-test-framework
-Cucumber basics tesging
+Cucumber basics testing
