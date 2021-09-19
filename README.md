@@ -1,2 +1,2 @@
-# Cypress-test-framework
-Cypress basics tesging
+# Cucumber-test-framework
+Cucumber basics tesging
